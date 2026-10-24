@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hiya everyone
+This is my github! i just like to share some cool projects i make here. 
+i like pigs 🐷🐷
+
+feel free to hit me up on discord: originalricemuncher
 
 <!--
 **Funnybug62/Funnybug62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
