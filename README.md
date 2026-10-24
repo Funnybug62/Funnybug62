@@ -1,22 +1,16 @@
-## Hiya everyone
-This is my github! 
-i just like to share some cool projects i make on here
+originalricemuncher@github:~$ whoami
+> hiya everyone this is my github obviously
 
-i like pigs 🐷🐷
+originalricemuncher@github:~$ cat about.txt
+> i just like to share some cool projects i make on here
 
-feel free to hit me up on discord: originalricemuncher
+originalricemuncher@github:~$ ls -a ~/interests
+> .  ..  🐷  pigs  🐷🐷  more-pigs
 
-<!--
-**Funnybug62/Funnybug62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+originalricemuncher@github:~$ ./contact.sh
+> discord ..... originalricemuncher
 
-Here are some ideas to get you started:
+originalricemuncher@github:~$ echo "thanks for stopping by!"
+> thanks for stopping by!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+originalricemuncher@github:~$ █
